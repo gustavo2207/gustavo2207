@@ -22,8 +22,4 @@
 <div>
   <a href = "mailto:gmoraea70@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-moraes-mercedes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  ##
-  
-  <a href="https://app.daily.dev/DevGustaMoraes"><img src="https://api.daily.dev/devcards/7815457a27e040ec9959cc30730f6e8b.png?r=atk" width="400" alt="Gustavo Moraes Mercedes's Dev Card"/></a>
 </div>
