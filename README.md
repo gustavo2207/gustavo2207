@@ -1,4 +1,4 @@
-## Hi! My name is Gustavo Moraes Mercedes, I'm a software engenieer, 20 years old, Brazilian and passionate about technology and innovation.
+## Hi! My name is Gustavo Moraes Mercedes, I'm a Full Stack Developer, 20 years old, Brazilian and passionate about technology and innovation.
 <div align="center">
   <a href="https://github.com/gustavo2207">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo2207&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
